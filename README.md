@@ -36,5 +36,6 @@ Display when the game is finished.
 
 <img src="ImageDemo/gameOver.png" width="550">
 
+## Authors
 
-
+* **Rodrigo Efraim** - *Work* - [RodEfraim](https://github.com/RodEfraim)
